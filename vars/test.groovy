@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-def call()
+def call(args)
 {
-  sh 'echo "hello this is test from shared pipeline code"'
+  sh 'echo "Hello ${args}! this is test from shared pipeline code"'
 }
