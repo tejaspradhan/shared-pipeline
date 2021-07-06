@@ -3,5 +3,6 @@
 def call(args)
 {
   echo "Hello ${args}! this is test from shared pipeline code"
-  test2()
+  String x = test2()
+  echo "${x}"
 }
