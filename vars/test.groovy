@@ -8,6 +8,6 @@ def call(url)
   
   def remote = []
   remote = getVM("${url}")
-  echo remote
+  echo remote[0].name
   
 }
