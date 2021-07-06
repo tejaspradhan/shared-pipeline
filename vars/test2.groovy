@@ -2,5 +2,5 @@
 
 def call()
 {
-  echo "Test 2"
+  return "test2"
 }
