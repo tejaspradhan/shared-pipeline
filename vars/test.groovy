@@ -1,8 +1,13 @@
 #!/usr/bin/env groovy
 
-def call(args)
+def call(url)
 {
-  echo "Hello ${args}! this is test from shared pipeline code"
-  def x = test2()
-  echo "${x}"
+//   echo "Hello ${args}! this is test from shared pipeline code"
+//   def x = test2()
+//   echo "${x}"
+  
+  def remote = []
+  remote = getVM("${url}")
+  echo remote
+  
 }
