@@ -7,5 +7,5 @@ def vm()
 
 def project()
 {
-   return ["https://github.com/yashbhangdia/Spring-Boot-Application-1.git" : [1, 2], "https://github.com/yashbhangdia/SpringBoot-Application-2.git" : [3]] 
+   return ["https://github.com/rchidana/spring-boot-maven-example-helloworld" : [1, 2], "https://github.com/yashbhangdia/Spring-Boot-Application-1.git" : [1, 2], "https://github.com/yashbhangdia/SpringBoot-Application-2.git" : [3]] 
 }
