@@ -1,4 +1,9 @@
-def ips = []
+#!/usr/bin/env groovy
+
+    
+def call()
+{
+    def ips = []
 def vmData = data.vm()
 String s = ""
 for(int i=0;i<vmData.size();i++)
@@ -33,6 +38,8 @@ for(int i=0;i<vmData.size();i++)
         s += ip + " : " + "DOWN" + "^\n\n"
     }
 
+    }
+
+    bat "@echo ${s} > logfile.txt"
 }
 
-bat "@echo ${s} > logfile.txt"
