@@ -7,10 +7,10 @@ def vm()
 
 def project()
 {
-   return ["https://github.com/yashbhangdia/Spring-Boot-Application-1.git" : [1, 2, 3], "https://github.com/yashbhangdia/SpringBoot-Application-2.git" : [3]] 
+   return ["https://github.com/yashbhangdia/Spring-Boot-Application-1.git" : [1, 2, 3], "https://github.com/yashbhangdia/SpringBoot-Application-2.git" : [3], "https://github.com/yashbhangdia/Liquibase_Project.git" : [1]] 
 }
 
 def app()
 {
-   return ["https://github.com/yashbhangdia/Spring-Boot-Application-1.git" : "SpringBootApplication1", "https://github.com/yashbhangdia/SpringBoot-Application-2.git" : "SpringBootApplication2"]
+   return ["https://github.com/yashbhangdia/Spring-Boot-Application-1.git" : "SpringBootApplication1", "https://github.com/yashbhangdia/SpringBoot-Application-2.git" : "SpringBootApplication2", "https://github.com/yashbhangdia/Liquibase_Project.git" : "Liquibase_Project"]
 }
