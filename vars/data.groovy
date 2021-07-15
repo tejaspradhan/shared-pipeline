@@ -12,5 +12,5 @@ def project()
 
 def app()
 {
-   return ["https://github.com/yashbhangdia/Spring-Boot-Application-1.git" : "SpringBoot Application 1", "https://github.com/yashbhangdia/SpringBoot-Application-2.git" : "SpringBoot Application 2"]
+   return ["https://github.com/yashbhangdia/Spring-Boot-Application-1.git" : "SpringBootApplication1", "https://github.com/yashbhangdia/SpringBoot-Application-2.git" : "SpringBootApplication2"]
 }
