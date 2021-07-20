@@ -39,7 +39,7 @@ List the ready features here:
 
 
 ## Screenshots
-![CI/CD Jenkins Screenshot](./img/screenshot.png)
+![CI/CD Jenkins Screenshot](./img/pipeline.jpg)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
