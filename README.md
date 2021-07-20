@@ -73,10 +73,6 @@ Call function in stage
 Project is: _in progress_ 
 
 
-## Contact
-Created by [Shriram](https://github.com/Shrirampareek888),[Tejas](https://github.com/tejaspradhan) and [Yash](https://github.com/yashbhangdia) - feel free to contact!
-
-
 <br>
 <br>
 
@@ -87,7 +83,7 @@ Created by [Shriram](https://github.com/Shrirampareek888),[Tejas](https://github
 <a href="https://github.com/yashbhangdia/shared-pipeline/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yashbhangdia/shared-pipeline" />
 </a>
-
+feel free to contact!
 
 <!-- Optional -->
 <!-- ## License -->
