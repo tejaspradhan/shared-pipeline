@@ -82,7 +82,7 @@ Give credit here.
 
 
 ## Contact
-Created by [Shriram](https://github.com/Shrirampareek888) [Tejas](https://github.com/tejaspradhan) and [Yash](https://github.com/yashbhangdia)- feel free to contact me!
+Created by [Shriram](https://github.com/Shrirampareek888),[Tejas](https://github.com/tejaspradhan) and [Yash](https://github.com/yashbhangdia) - feel free to contact!
 
 
 <!-- Optional -->
