@@ -84,7 +84,6 @@ Project is: _in progress_
   <img src="https://contrib.rocks/image?repo=yashbhangdia/shared-pipeline" />
 </a>
 <br>
-feel free to contact!
 
 <!-- Optional -->
 <!-- ## License -->
