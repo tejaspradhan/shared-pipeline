@@ -83,6 +83,7 @@ Project is: _in progress_
 <a href="https://github.com/yashbhangdia/shared-pipeline/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yashbhangdia/shared-pipeline" />
 </a>
+<br>
 feel free to contact!
 
 <!-- Optional -->
