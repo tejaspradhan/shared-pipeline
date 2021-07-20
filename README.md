@@ -44,7 +44,7 @@ List the ready features here:
 
 
 ## Setup
-Requirements on Server-
+*Requirements on Server*
 Java 8 or above
 Maven
 Liquibase
