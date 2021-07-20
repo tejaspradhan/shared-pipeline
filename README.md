@@ -45,12 +45,12 @@ List the ready features here:
 
 ## Setup
 *Requirements on Server*
-Java 8 or above
-Maven
-Liquibase
-Github account and credentials
-Database configurations (If required in project)
-SSH configurations (For connecting to virtual machines)
+- Java 8 or above
+- Maven
+- Liquibase
+- Github account and credentials
+- Database configurations (If required in project)
+- SSH configurations (For connecting to virtual machines)
 
 
 
