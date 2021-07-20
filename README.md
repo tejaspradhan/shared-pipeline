@@ -67,7 +67,7 @@ Include your url inside " "
 For using methods in already achieved CI/CD - 
 Call function in stage
 `functionname(url)`
-`
+
 
 
 ## Project Status
