@@ -10,13 +10,12 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Library made for easy CI/CD Implementation
+- Shared Library made for easy CI/CD Implementation through jenkins pipelines
 - Using this, Developers don't have to worry about Deployment process and also makes tasks easier for Dev-Ops
 - Specially made for VHS technology and deployments on Virtual Machines
 - Easy to setup and use
@@ -74,15 +73,9 @@ Call function in stage
 Project is: _in progress_ 
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
 
 ## Contact
-Created by [Shriram](https://github.com/Shrirampareek888),[Tejas](https://github.com/tejaspradhan) and [Yash](https://github.com/yashbhangdia) - feel free to contact!
+Created by [Shriram](https://github.com/Shrirampareek888) [Tejas](https://github.com/tejaspradhan) and [Yash](https://github.com/yashbhangdia)- feel free to contact me!
 
 
 <!-- Optional -->
